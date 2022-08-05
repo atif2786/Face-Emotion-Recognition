@@ -2,6 +2,9 @@
 ## Data
 The data set used for training is the Kaggle FER2013 emotion recognition data set : https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
+![image](https://user-images.githubusercontent.com/90926349/183123587-fa67bc64-6a4d-44f8-bb0b-76f331494ebd.png)
+
+
 The data consists of 48x48 pixel grayscale images of faces. The faces have been automatically registered so that the face is more or less centered and occupies about the same amount of space in each image. The task is to categorize each face based on the emotion shown in the facial expression in to one of seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral).
 
 ![image](https://user-images.githubusercontent.com/90926349/183009055-a3199922-5fce-430a-9c5b-79cdd4034063.png)
